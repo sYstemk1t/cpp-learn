@@ -1,0 +1,15 @@
+﻿生成启动时间为 2021/8/9 4:21:19。
+     1>项目“D:\Demo\C++\cpp-learn\code\分支与循环结构\QQisIN\QQisIN.vcxproj”在节点 3 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt main.c
+         main.c
+     1>d:\demo\c++\cpp-learn\code\分支与循环结构\qqisin\main.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(283) : 参见“scanf”的声明
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Demo\C++\cpp-learn\code\分支与循环结构\ProgramStructure\Debug\QQisIN.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Demo\C++\cpp-learn\code\分支与循环结构\ProgramStructure\Debug\QQisIN.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Demo\C++\cpp-learn\code\分支与循环结构\ProgramStructure\Debug\QQisIN.lib" /MACHINE:X86 Debug\main.obj
+         QQisIN.vcxproj -> D:\Demo\C++\cpp-learn\code\分支与循环结构\ProgramStructure\Debug\QQisIN.exe
+     1>已完成生成项目“D:\Demo\C++\cpp-learn\code\分支与循环结构\QQisIN\QQisIN.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.83
